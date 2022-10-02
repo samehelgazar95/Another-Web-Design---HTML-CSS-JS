@@ -1,2 +1,2 @@
-# RWD---HTML-CSS-JS
-a responsive web design and focused on using DOM and Local Storage
+# Another Web Design---HTML-CSS-JS
+Focused on using DOM and Local Storage
